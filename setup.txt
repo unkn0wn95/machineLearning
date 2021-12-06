@@ -1,0 +1,4 @@
+Setup for machine Learning Stater:
+  1.create file
+  2.go to the file and run this command:
+    "conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter"
